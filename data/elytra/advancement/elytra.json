@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": "Elytra           ",
+        "description": [
+            "",
+            {
+                "text": "This expansion gives players an ",
+                "color": "#e25903"
+            },
+            {
+                "text": "Elytra ",
+                "color": "#d9b35c"
+            },
+            {
+                "text": "at the beginning of the game.",
+                "color": "#e25903"
+            }
+        ],
+        "icon": {
+            "id": "minecraft:elytra"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "uhc:uhc_control_expansions",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
