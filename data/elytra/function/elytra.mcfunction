@@ -1,1 +1,1 @@
-give @a elytra[enchantments={"minecraft:unbreaking":1}] 1
+give @a elytra 1
